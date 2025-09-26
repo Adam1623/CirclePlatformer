@@ -3,7 +3,7 @@
 Unity project from 2021. A platformer game with progression in the form of unlocking new abilities.
 
 <h3> Instructions </h3>
-<p>Run "Main.py" to run the game.
+<p>
 
 <h4>Controls:</h4>
 <b>A/D</b> - move left / right <br>
