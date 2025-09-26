@@ -6,9 +6,9 @@ Unity project from 2021. A platformer game with progression in the form of unloc
 <p>Run "Main.py" to run the game.
 
 <h4>Controls:</h4>
-<b>a/d</b> - move left / right <br>
-<b>w</b> - jump <br>
-<b>Left click release</b> - lightning strike <br>
+<b>A/D</b> - move left / right <br>
+<b>W</b> - jump <br>
+<b></b>   <br>
 </p>
 
 <!-- <h2>DESCRIPTION</h2> -->
